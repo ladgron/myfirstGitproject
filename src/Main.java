@@ -4,5 +4,6 @@ public class Main {
 	// write your code here
    System.out.println("my first Git project");
         System.out.println("Hej Ladan");
+        System.out.println("Hej Ladan2");
     }
 }
