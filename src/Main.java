@@ -5,5 +5,6 @@ public class Main {
    System.out.println("my first Git project");
         System.out.println("Hej Ladan");
         System.out.println("Hej Ladan2");
+        System.out.println("Hej Ladan3");
     }
 }
